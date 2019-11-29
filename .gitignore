@@ -1,7 +1,9 @@
-# compiled output
-/dist
-/tmp
-/out-tsc
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
 # Runtime data
 pids
@@ -27,38 +29,15 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
-# IDEs and editors
-.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
-# IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-
-# misc
-.sass-cache
-connect.lock
-typings
-
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
 
 # Dependency directories
 node_modules/
 jspm_packages/
+
+# TypeScript v1 declaration files
+typings/
 
 # Optional npm cache directory
 .npm
@@ -80,10 +59,3 @@ jspm_packages/
 
 # next.js build output
 .next
-
-# Lerna
-lerna-debug.log
-
-# System Files
-.DS_Store
-Thumbs.db
