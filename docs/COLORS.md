@@ -30,4 +30,4 @@ Color | Value | Discord.JS value | ColorHexa.com page
 ![#99AAB5](https://placehold.it/15/99aab5/000000?text=+) #99AAB5 | grayple | GREYPLE | [Here](https://www.colorhexa.com/99aab5)
 ![#2C2F33](https://placehold.it/15/2c2f33/000000?text=+) #2C2F33 | darkbutnotblack | DARK_BUT_NOT_BLACK | [Here](https://www.colorhexa.com/2c2f33)
 ![#23272A](https://placehold.it/15/23272a/000000?text=+) #23272A | notquiteblack | NOT_QUITE_BlACK | [Here](https://www.colorhexa.com/23272a)
-![RANDOMIZED](../img/random.png?raw=true) RANDOMIZED | randomColor | RANDOM | RANDOMIZED
+![RANDOMIZED](../img/random.png) RANDOMIZED | randomColor | RANDOM | RANDOMIZED
