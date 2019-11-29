@@ -1,13 +1,20 @@
 # The Changelog
 
+## 1.2.1
+Package.json's repo field has been slightly altered.\
+Added all the CLI files to the bin folder.\
+Updated README.md.
+
 ## 1.2.0
 Organized files.\
 Fixed so the CLI will not suddenly run.\
 License is back as a normal file.\
-Added description.
+Added description.\
+Github is stupid so I fixed COLORS.md.
 
 ## 1.1.0
 Interface improved.\
+No longer just a CLI.\
 Markdown file to show colors.\
 A .d.ts file.\
 Changed name, description, and license.\

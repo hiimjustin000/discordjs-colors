@@ -17,7 +17,7 @@ const colors = require("discordjs-colors");
 client.on("message", (message) => {
     let embed = new Discord.RichEmbed()
     .setTitle("Red color")
-    .setColor(colors.red);
+    .setColor(colors.red());
 
     message.channel.send(embed);
 })
@@ -28,7 +28,12 @@ Or this:
 const chalk = require("chalk");
 const colors = require("discordjs-colors");
 
-console.log(chalk.hex(colors.red)("Red text"))
+console.log(chalk.hex(colors.red())("Red text"))
+```
+
+Or you can run it:
+```
+discordjs-colors
 ```
 
 You can find the color list [here](docs/COLORS.md).
