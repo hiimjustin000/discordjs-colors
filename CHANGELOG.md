@@ -1,5 +1,8 @@
 # The Changelog
 
+## 1.2.2
+Fixed a bug where the methods wouldn't be defined.
+
 ## 1.2.1
 Package.json's repo field has been slightly altered.\
 Added all the CLI files to the bin folder.\
