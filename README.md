@@ -31,7 +31,7 @@ const colors = require("discordjs-colors");
 console.log(chalk.hex(colors.red)("Red text"))
 ```
 
-You can find the color list [here](COLORS.md).
+You can find the color list [here](docs/COLORS.md).
 
 ## [Github](https://github.com/hiimjustin000/discordjs-colors)
 ## [NPM Package](https://www.npmjs.com/package/discordjs-colors)

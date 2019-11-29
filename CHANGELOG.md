@@ -1,5 +1,11 @@
 # The Changelog
 
+## 1.2.0
+Organized files.\
+Fixed so the CLI will not suddenly run.\
+License is back as a normal file.\
+Added description.
+
 ## 1.1.0
 Interface improved.\
 Markdown file to show colors.\
