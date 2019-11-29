@@ -2,7 +2,7 @@
 
 Color | Value | Discord.JS value | ColorHexa.com page
 ------|-------|------------------|-------------------
-![#000000]#000000 | defaultColor | DEFAULT | [Here](https://www.colorhexa.com/000000)
+![#000000] #000000 | defaultColor | DEFAULT | [Here](https://www.colorhexa.com/000000)
 ![#FFFFFF]#FFFFFF | white | WHITE | [Here](https://www.colorhexa.com/ffffff)
 ![#1ABC9C]#1ABC9C | aqua | AQUA | [Here](https://www.colorhexa.com/1abc9c)
 ![#2ECC71]#2ECC71 | green | GREEN | [Here](https://www.colorhexa.com/2ecc71)
